@@ -7,5 +7,6 @@ public class Message {
 		System.out.println("What is up");
 		System.out.println("Not much how about yourself");
 		System.out.println("Hello");
+		System.out.println(" :)");
 	}
 }
